@@ -1,0 +1,647 @@
+[
+  {
+    "name": "Creamy Tomato Pasta",
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "cream",
+      "garlic",
+      "parmesan",
+      "olive oil"
+    ],
+    "category": "Italian",
+    "time": 25
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato",
+      "onion",
+      "garlic",
+      "olive oil"
+    ],
+    "category": "Italian",
+    "time": 40
+  },
+  {
+    "name": "Chicken Alfredo",
+    "ingredients": [
+      "pasta",
+      "chicken",
+      "cream",
+      "parmesan",
+      "garlic",
+      "butter"
+    ],
+    "category": "Italian",
+    "time": 30
+  },
+  {
+    "name": "Margherita Pizza",
+    "ingredients": [
+      "flour",
+      "tomato",
+      "mozzarella",
+      "basil",
+      "olive oil",
+      "yeast"
+    ],
+    "category": "Italian",
+    "time": 60
+  },
+  {
+    "name": "Mushroom Risotto",
+    "ingredients": [
+      "rice",
+      "mushroom",
+      "onion",
+      "parmesan",
+      "butter",
+      "stock"
+    ],
+    "category": "Italian",
+    "time": 35
+  },
+  {
+    "name": "Chicken Curry",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "tomato",
+      "curry powder",
+      "coconut milk",
+      "rice"
+    ],
+    "category": "Asian",
+    "time": 35
+  },
+  {
+    "name": "Vegetable Curry",
+    "ingredients": [
+      "potato",
+      "carrot",
+      "chickpeas",
+      "tomato",
+      "coconut milk",
+      "curry powder"
+    ],
+    "category": "Asian",
+    "time": 35
+  },
+  {
+    "name": "Fried Rice",
+    "ingredients": [
+      "rice",
+      "egg",
+      "carrot",
+      "peas",
+      "soy sauce",
+      "green onion"
+    ],
+    "category": "Asian",
+    "time": 20
+  },
+  {
+    "name": "Chicken Stir Fry",
+    "ingredients": [
+      "chicken",
+      "bell pepper",
+      "broccoli",
+      "soy sauce",
+      "garlic",
+      "rice"
+    ],
+    "category": "Asian",
+    "time": 25
+  },
+  {
+    "name": "Beef Stir Fry",
+    "ingredients": [
+      "beef",
+      "bell pepper",
+      "onion",
+      "soy sauce",
+      "garlic",
+      "rice"
+    ],
+    "category": "Asian",
+    "time": 25
+  },
+  {
+    "name": "Chicken Quesadilla",
+    "ingredients": [
+      "tortilla",
+      "chicken",
+      "cheddar",
+      "bell pepper",
+      "onion",
+      "salsa"
+    ],
+    "category": "Mexican",
+    "time": 20
+  },
+  {
+    "name": "Beef Tacos",
+    "ingredients": [
+      "tortilla",
+      "ground beef",
+      "tomato",
+      "lettuce",
+      "cheddar",
+      "onion"
+    ],
+    "category": "Mexican",
+    "time": 25
+  },
+  {
+    "name": "Chicken Tacos",
+    "ingredients": [
+      "tortilla",
+      "chicken",
+      "tomato",
+      "lettuce",
+      "avocado",
+      "lime"
+    ],
+    "category": "Mexican",
+    "time": 25
+  },
+  {
+    "name": "Guacamole Toast",
+    "ingredients": [
+      "bread",
+      "avocado",
+      "lime",
+      "tomato",
+      "salt",
+      "olive oil"
+    ],
+    "category": "Breakfast",
+    "time": 10
+  },
+  {
+    "name": "Avocado Egg Toast",
+    "ingredients": [
+      "bread",
+      "avocado",
+      "egg",
+      "salt",
+      "pepper",
+      "olive oil"
+    ],
+    "category": "Breakfast",
+    "time": 12
+  },
+  {
+    "name": "Pancakes",
+    "ingredients": [
+      "flour",
+      "milk",
+      "egg",
+      "sugar",
+      "butter",
+      "baking powder"
+    ],
+    "category": "Breakfast",
+    "time": 20
+  },
+  {
+    "name": "French Toast",
+    "ingredients": [
+      "bread",
+      "egg",
+      "milk",
+      "sugar",
+      "cinnamon",
+      "butter"
+    ],
+    "category": "Breakfast",
+    "time": 15
+  },
+  {
+    "name": "Cheese Omelette",
+    "ingredients": [
+      "egg",
+      "cheddar",
+      "milk",
+      "butter",
+      "salt",
+      "pepper"
+    ],
+    "category": "Breakfast",
+    "time": 10
+  },
+  {
+    "name": "Menemen",
+    "ingredients": [
+      "egg",
+      "tomato",
+      "green pepper",
+      "butter",
+      "salt",
+      "pepper"
+    ],
+    "category": "Turkish",
+    "time": 20
+  },
+  {
+    "name": "Lentil Soup",
+    "ingredients": [
+      "red lentils",
+      "onion",
+      "carrot",
+      "potato",
+      "butter",
+      "stock"
+    ],
+    "category": "Turkish",
+    "time": 35
+  },
+  {
+    "name": "Chicken Soup",
+    "ingredients": [
+      "chicken",
+      "carrot",
+      "onion",
+      "potato",
+      "stock",
+      "parsley"
+    ],
+    "category": "Soup",
+    "time": 40
+  },
+  {
+    "name": "Tomato Soup",
+    "ingredients": [
+      "tomato",
+      "onion",
+      "garlic",
+      "cream",
+      "butter",
+      "stock"
+    ],
+    "category": "Soup",
+    "time": 30
+  },
+  {
+    "name": "Mushroom Soup",
+    "ingredients": [
+      "mushroom",
+      "onion",
+      "cream",
+      "butter",
+      "garlic",
+      "stock"
+    ],
+    "category": "Soup",
+    "time": 30
+  },
+  {
+    "name": "Greek Salad",
+    "ingredients": [
+      "tomato",
+      "cucumber",
+      "feta",
+      "olive",
+      "onion",
+      "olive oil"
+    ],
+    "category": "Salad",
+    "time": 15
+  },
+  {
+    "name": "Caesar Salad",
+    "ingredients": [
+      "lettuce",
+      "chicken",
+      "parmesan",
+      "croutons",
+      "caesar dressing",
+      "lemon"
+    ],
+    "category": "Salad",
+    "time": 20
+  },
+  {
+    "name": "Tuna Salad",
+    "ingredients": [
+      "tuna",
+      "lettuce",
+      "tomato",
+      "cucumber",
+      "corn",
+      "olive oil"
+    ],
+    "category": "Salad",
+    "time": 15
+  },
+  {
+    "name": "Caprese Salad",
+    "ingredients": [
+      "tomato",
+      "mozzarella",
+      "basil",
+      "olive oil",
+      "salt",
+      "balsamic vinegar"
+    ],
+    "category": "Salad",
+    "time": 10
+  },
+  {
+    "name": "Grilled Chicken",
+    "ingredients": [
+      "chicken",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "salt",
+      "pepper"
+    ],
+    "category": "Main",
+    "time": 25
+  },
+  {
+    "name": "Baked Salmon",
+    "ingredients": [
+      "salmon",
+      "lemon",
+      "olive oil",
+      "garlic",
+      "salt",
+      "pepper"
+    ],
+    "category": "Main",
+    "time": 25
+  },
+  {
+    "name": "Garlic Butter Shrimp",
+    "ingredients": [
+      "shrimp",
+      "garlic",
+      "butter",
+      "lemon",
+      "parsley",
+      "salt"
+    ],
+    "category": "Seafood",
+    "time": 15
+  },
+  {
+    "name": "Fish and Chips",
+    "ingredients": [
+      "white fish",
+      "potato",
+      "flour",
+      "egg",
+      "oil",
+      "salt"
+    ],
+    "category": "Seafood",
+    "time": 35
+  },
+  {
+    "name": "Beef Burger",
+    "ingredients": [
+      "beef patty",
+      "burger bun",
+      "cheddar",
+      "lettuce",
+      "tomato",
+      "onion"
+    ],
+    "category": "Fast Food",
+    "time": 25
+  },
+  {
+    "name": "Chicken Burger",
+    "ingredients": [
+      "chicken",
+      "burger bun",
+      "lettuce",
+      "tomato",
+      "mayonnaise",
+      "cheddar"
+    ],
+    "category": "Fast Food",
+    "time": 25
+  },
+  {
+    "name": "Club Sandwich",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "lettuce",
+      "tomato",
+      "cheese",
+      "mayonnaise"
+    ],
+    "category": "Snack",
+    "time": 15
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": [
+      "bread",
+      "cheddar",
+      "butter"
+    ],
+    "category": "Snack",
+    "time": 10
+  },
+  {
+    "name": "Tuna Sandwich",
+    "ingredients": [
+      "bread",
+      "tuna",
+      "mayonnaise",
+      "lettuce",
+      "cucumber",
+      "lemon"
+    ],
+    "category": "Snack",
+    "time": 10
+  },
+  {
+    "name": "Baked Potato",
+    "ingredients": [
+      "potato",
+      "butter",
+      "cheddar",
+      "sour cream",
+      "salt",
+      "pepper"
+    ],
+    "category": "Side",
+    "time": 45
+  },
+  {
+    "name": "Mashed Potatoes",
+    "ingredients": [
+      "potato",
+      "milk",
+      "butter",
+      "salt",
+      "pepper"
+    ],
+    "category": "Side",
+    "time": 30
+  },
+  {
+    "name": "Roasted Vegetables",
+    "ingredients": [
+      "zucchini",
+      "carrot",
+      "bell pepper",
+      "onion",
+      "olive oil",
+      "salt"
+    ],
+    "category": "Side",
+    "time": 35
+  },
+  {
+    "name": "Chicken Wrap",
+    "ingredients": [
+      "tortilla",
+      "chicken",
+      "lettuce",
+      "tomato",
+      "yogurt",
+      "cucumber"
+    ],
+    "category": "Lunch",
+    "time": 20
+  },
+  {
+    "name": "Falafel Wrap",
+    "ingredients": [
+      "tortilla",
+      "chickpeas",
+      "lettuce",
+      "tomato",
+      "tahini",
+      "cucumber"
+    ],
+    "category": "Lunch",
+    "time": 30
+  },
+  {
+    "name": "Hummus",
+    "ingredients": [
+      "chickpeas",
+      "tahini",
+      "lemon",
+      "garlic",
+      "olive oil",
+      "salt"
+    ],
+    "category": "Middle Eastern",
+    "time": 10
+  },
+  {
+    "name": "Shakshuka",
+    "ingredients": [
+      "egg",
+      "tomato",
+      "onion",
+      "bell pepper",
+      "garlic",
+      "olive oil"
+    ],
+    "category": "Middle Eastern",
+    "time": 30
+  },
+  {
+    "name": "Chocolate Cake",
+    "ingredients": [
+      "flour",
+      "cocoa powder",
+      "egg",
+      "milk",
+      "sugar",
+      "butter"
+    ],
+    "category": "Dessert",
+    "time": 55
+  },
+  {
+    "name": "Cheesecake",
+    "ingredients": [
+      "cream cheese",
+      "biscuits",
+      "butter",
+      "sugar",
+      "egg",
+      "cream"
+    ],
+    "category": "Dessert",
+    "time": 70
+  },
+  {
+    "name": "Banana Pancakes",
+    "ingredients": [
+      "banana",
+      "egg",
+      "flour",
+      "milk",
+      "butter",
+      "honey"
+    ],
+    "category": "Dessert",
+    "time": 20
+  },
+  {
+    "name": "Apple Crumble",
+    "ingredients": [
+      "apple",
+      "flour",
+      "butter",
+      "sugar",
+      "cinnamon",
+      "oats"
+    ],
+    "category": "Dessert",
+    "time": 45
+  },
+  {
+    "name": "Fruit Yogurt Bowl",
+    "ingredients": [
+      "yogurt",
+      "banana",
+      "strawberry",
+      "blueberry",
+      "honey",
+      "oats"
+    ],
+    "category": "Healthy",
+    "time": 10
+  },
+  {
+    "name": "Berry Smoothie",
+    "ingredients": [
+      "strawberry",
+      "blueberry",
+      "banana",
+      "milk",
+      "yogurt",
+      "honey"
+    ],
+    "category": "Drink",
+    "time": 5
+  },
+  {
+    "name": "Banana Smoothie",
+    "ingredients": [
+      "banana",
+      "milk",
+      "yogurt",
+      "honey",
+      "cinnamon"
+    ],
+    "category": "Drink",
+    "time": 5
+  }
+]
